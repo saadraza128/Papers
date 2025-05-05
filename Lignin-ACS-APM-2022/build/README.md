@@ -7,7 +7,9 @@
 
 The is the first script to generate the simulation system for NAMD using VMD.
 
-Lignin Structure are taken from [LigninBuilder](https://github.com/jvermaas/LigninBuilder) and structure and topolgy file for SDS is rebuild from [CHARMM36 forcefield](https://mackerell.umaryland.edu/charmm_ff.shtml). 
+Lignin Structure are taken from [LigninBuilder](https://github.com/jvermaas/LigninBuilder) and structure and topolgy file for SDS is rebuild from [CHARMM36 forcefield](https://mackerell.umaryland.edu/charmm_ff.shtml).
+
+An example script for generating the SDS molecule is given in another [repository](https://github.com/saadraza128/charmm36-utility-scripts)
 
 You can run the code using 
 ```bash
